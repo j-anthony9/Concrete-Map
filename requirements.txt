@@ -4,3 +4,4 @@ folium
 matplotlib
 openrouteservice
 openpyxl
+streamlit_folium
